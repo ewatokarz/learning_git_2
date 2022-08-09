@@ -3,7 +3,10 @@
     margin: 10px auto;
     padding-left: 10px;
     background-color: whitesmoke;
-    text-align: center;
+    background-image: url('https://images.pexels.com/photos/92083/pexels-photo-92083.jpeg?auto=compress&cs=tinysrgb&w=600');
+    background-position: center center; 
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 .title-one {
